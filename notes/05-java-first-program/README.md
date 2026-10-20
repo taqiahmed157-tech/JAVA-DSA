@@ -8,4 +8,5 @@
 - Operators
 
 ## Learning notes
-Add explanations and examples here as you study each topic.
+
+
