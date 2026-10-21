@@ -1,3 +1,4 @@
+// Q. Calculate Distance between two points.
 import java.util.Scanner;
 public class ElectricityBill
 {
