@@ -1,3 +1,4 @@
+// Q. Calculate Discount Of Product.
 import java.util.Scanner;
 public class Discount
 {
