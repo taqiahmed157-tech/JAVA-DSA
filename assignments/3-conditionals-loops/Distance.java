@@ -1,3 +1,4 @@
+// Q. Calculate Distance bewteen two points.
 import java.util.Scanner;
 public class Distance
 {
